@@ -7,7 +7,8 @@ This repository contains organizational info for a [MaRDA](https://www.marda-all
 - *[Matthew Evans](https://ml-evs.science), UCLouvain*
   (`matthew.evans[at]uclouvain.be`)
 - *Peter Kraus, TU Berlin*
-- *David Elbert, Johns Hopkins University*
+- *David Elbert, Johns Hopkins University* 
+  (elbert[at]jhu.edu)
 
 ## Organization & logistics
 
