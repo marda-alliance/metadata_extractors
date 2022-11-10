@@ -8,12 +8,11 @@ This repository contains organizational info for a [MaRDA](https://www.marda-all
   (`matthew.evans[at]uclouvain.be`)
 - *Peter Kraus, TU Berlin*
 - *David Elbert, Johns Hopkins University* 
-  (elbert[at]jhu.edu)
+  (`elbert[at]jhu.edu`)
 
 ## Organization & logistics
 
-The working group will start in mid-November with an initial meeting (TBA) after
-polling the initial respondents.
+The working group will start with an initial meeting on [November 30th at 14:00 UTC/15:00 CET/09:00 EST](https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221130T14).
 
 - All meetings will be open and will take place on [Jitsi](https://meet.jit.si/)
   with the room code `marda-extractors`. Meeting dates will be arranged in the
