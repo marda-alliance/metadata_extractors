@@ -7,6 +7,7 @@ This repository contains organizational info for a [MaRDA](https://www.marda-all
 - *[Matthew Evans](https://ml-evs.science), UCLouvain*
   (`matthew.evans[at]uclouvain.be`)
 - *Peter Kraus, TU Berlin*
+  (`peter.kraus[at]ceramics.tu-berlin.de`)
 - *David Elbert, Johns Hopkins University* 
   (`elbert[at]jhu.edu`)
 
