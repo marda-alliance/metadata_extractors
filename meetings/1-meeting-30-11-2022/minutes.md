@@ -11,7 +11,7 @@
 
 ## Minutes from Q&A & Discussion
 
-1. Matthew Evans: Introductory presentation. Recorded.
+1. Matthew Evans: Introductory presentation. Recorded ([video](https://www.youtube.com/watch?v=6x5Ow-CLRWg), [slides](https://docs.google.com/presentation/d/1QTqDEO3H1s_wAtcE9DD6k1eCJ7GzvdV2spjHE94bEQw/edit?usp=sharing))
 
 2. a) Markus Scheidgen:
 - Question: Will slides be shared?
