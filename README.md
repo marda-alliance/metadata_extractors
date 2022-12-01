@@ -10,14 +10,16 @@ This repository contains organizational info for a [MaRDA](https://www.marda-all
   (`peter.kraus[at]ceramics.tu-berlin.de`)
 - *David Elbert, Johns Hopkins University* 
   (`elbert[at]jhu.edu`)
+  
+If you would like to be added ot the mailing list please reach out to us over email, or just turn up at a meeting!
 
 ## Organization & logistics
 
-The working group will start with an initial meeting on [November 30th at 14:00 UTC/15:00 CET/09:00 EST](https://www.timeanddate.com/worldclock/fixedtime.html?iso=20221130T14).
 
 - All meetings will be open and will take place on [Jitsi](https://meet.jit.si/)
   with the room code `marda-extractors`. Meeting dates will be arranged in the
   previous meeting, and will be announced on the mailing list.
+- Meeting minutes and relevant links will be made available in this repository under [`./meetings`](https://github.com/marda-alliance/metadata_extractors/tree/main/meetings).
 - The [GitHub discussions on this
   repo](https://github.com/marda-alliance/metadata_extractors/discussions) will be used for asynchronous
   communications about the design, development and logistics of the overall
@@ -25,6 +27,9 @@ The working group will start with an initial meeting on [November 30th at 14:00 
   thread](https://github.com/marda-alliance/metadata_extractors/discussions/1)!
 
 ## Proposal
+
+![image](https://user-images.githubusercontent.com/7916000/205093968-632da485-b922-4244-8d8d-51ff85c92d35.png)
+
 
 The text below is taken from the initial working group proposal.
 
