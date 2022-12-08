@@ -11,7 +11,18 @@ This repository contains organizational info for a [MaRDA](https://www.marda-all
 - *David Elbert, Johns Hopkins University* 
   (`elbert[at]jhu.edu`)
   
+
+## Contributing
+
+This working group is completely open.
 If you would like to be added ot the mailing list please reach out to us over email, or just turn up at a meeting!
+
+The GitHub discussions on this repo can be used for pretty much any related chat, and specific code suggestions/feedback can be made as pull requests to the GitHub repos for each subproject:
+
+- [marda-alliance/metadata_extractors_schema](https://github.com/marda-alliance/metadata_extractors_schema)
+- [marda-alliance/metadata_extractors_registry](https://github.com/marda-alliance/metadata_extractors_registry)
+- [marda-alliance/metadata_extractors_api](https://github.com/marda-alliance/metadata_extractors_api)
+
 
 ## Organization & logistics
 
