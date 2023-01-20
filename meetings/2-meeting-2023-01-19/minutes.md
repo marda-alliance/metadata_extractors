@@ -17,6 +17,9 @@
 
 ---
 
+2. Matthew Evans & Peter Kraus: 
+  - Presentation of current progress and case study on [yadg](https://github.com/dgbowl/yadg) ([slides](https://docs.google.com/presentation/d/1nQD7cwEG67W5MAVjXXb-6nUklDg1AcxYs8j7WRsJjIc/edit#slide=id.g1e03a09dbfb_0_16))
+
 2. a) Casper Andresen:
   - Question: Will the transformation step in our pipeline be based on semantics, or only a pure syntax translation?
 
