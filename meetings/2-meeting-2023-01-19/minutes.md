@@ -36,7 +36,7 @@
   
  --
  
-4. a) Steffen Brinkcmann:
+4. a) Steffen Brinckmann:
   - Question: Is passing parameters into extractors (e.g. information about background etc.) condsidered for the schemas?
 
 4. b) Peter Kraus:
