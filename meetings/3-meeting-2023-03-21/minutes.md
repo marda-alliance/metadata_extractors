@@ -24,9 +24,11 @@ Presented by [Logan Ward](https://github.com/WardLT). Unfortunately we forgot to
 - Design principle: filesystem ➝ database should work in 1 line of code
 
 1. Question (Matthew Evans): Self describing schema - how is this implemented?
+   
    Answer: For now, in a JSONSchema as it is verifiable and human-readable.
 
 2. Question (Matthew Evans): Handling groups of files - how does the user select the appropriate filetype?
+ 
    Answer: Better illustrated using an example:
     - 1) each file is treated separately
     - 2) each particular datatype has its own extractor
@@ -38,9 +40,11 @@ Presented by [Logan Ward](https://github.com/WardLT). Unfortunately we forgot to
 - Key feature: autodiscovery of Scythe-compatible Extractors on the current host via Stevedore
 
 3. Question (Peter Kraus): Is the "losslessness" of the data described somewhere?
+
    Answer: If it's not in the documentation, then not.
 
 4. Quetion (Ken Kroenlein): Universal datastructures might not work well. How about data dictionaries and standards or similar technologies to describe the structure of the data?
+
    Answer: This is currently an Extractor-level decision, to drive adoption.
 
 ## Summary of progress on `api` in MaRDA Extractors WG
