@@ -6,10 +6,12 @@
 
 <div align="center">
 
-
 [![Documentation](https://badgen.net/badge/docs/marda-alliance.github.io/blue?icon=firefox)](https://marda-alliance.github.io/metadata_extractors/)
 
 </div>
+
+> [!IMPORTANT]  
+> The MaRDA Metadata Extractors working group has now ended; development will continue under the [datatractor](https://github.com/datatractor/) organisation, but discussions can continue in this repository.
 
 This repository contains organizational info for a [MaRDA](https://www.marda-alliance.org/) working group (WG) focused on connecting and advancing interoperability of efforts on automated extraction of metadata from materials files.
 
